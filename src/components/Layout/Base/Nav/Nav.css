@@ -1,0 +1,14 @@
+nav {
+    font-weight: bolder;
+    color: whitesmoke;
+    margin: 80px auto 40px auto;
+  }
+
+nav span{
+    color: yellow;
+    font-weight: bolder;
+    font-size: 1.25em;
+    background-color: #2d2d2d;
+    padding: 10px;
+    border-radius: 5px;
+}

@@ -1,0 +1,11 @@
+.base {
+    background: #2d2d2d;
+    /* background-image: url('https://images7.alphacoders.com/400/thumb-1920-400623.jpg'); */
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding: 150px auto;
+  }
