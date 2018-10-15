@@ -258,5 +258,45 @@
         "id": 52,
         "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-52.svg",
         "clicked": false
+    },
+    {
+        "id": 53,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-53.svg",
+        "clicked": false
+    },
+    {
+        "id": 54,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-54.svg",
+        "clicked": false
+    },
+    {
+        "id": 55,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-55.svg",
+        "clicked": false
+    },
+    {
+        "id": 56,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-56.svg",
+        "clicked": false
+    },
+    {
+        "id": 57,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-57.svg",
+        "clicked": false
+    },
+    {
+        "id": 58,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-58.svg",
+        "clicked": false
+    },
+    {
+        "id": 59,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-59.svg",
+        "clicked": false
+    },
+    {
+        "id": 60,
+        "image": "https://kratuvwxyz.github.io/SVG/playing-cards/English_pattern_playing_cards_deck-60.svg",
+        "clicked": false
     }
 ]
