@@ -15,7 +15,7 @@ Memory game playing with cards.
     - ```npm start```
 
 - Deployment
-    - App running on [Github Pages]()
+    - App running on [Github Pages](https://kratuvwxyz.github.io/Clicky-Cards/)
 
 ### Version
 
