@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Clicky-Cards/static/css/main.241c2287.chunk.css",
+    "main.js": "/Clicky-Cards/static/js/main.14d174d0.chunk.js",
+    "main.js.map": "/Clicky-Cards/static/js/main.14d174d0.chunk.js.map",
+    "runtime-main.js": "/Clicky-Cards/static/js/runtime-main.c4886125.js",
+    "runtime-main.js.map": "/Clicky-Cards/static/js/runtime-main.c4886125.js.map",
+    "static/js/2.12fb7aa4.chunk.js": "/Clicky-Cards/static/js/2.12fb7aa4.chunk.js",
+    "static/js/2.12fb7aa4.chunk.js.map": "/Clicky-Cards/static/js/2.12fb7aa4.chunk.js.map",
+    "static/js/3.19694f43.chunk.js": "/Clicky-Cards/static/js/3.19694f43.chunk.js",
+    "static/js/3.19694f43.chunk.js.map": "/Clicky-Cards/static/js/3.19694f43.chunk.js.map",
+    "index.html": "/Clicky-Cards/index.html",
+    "static/css/main.241c2287.chunk.css.map": "/Clicky-Cards/static/css/main.241c2287.chunk.css.map",
+    "static/js/2.12fb7aa4.chunk.js.LICENSE.txt": "/Clicky-Cards/static/js/2.12fb7aa4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4886125.js",
+    "static/js/2.12fb7aa4.chunk.js",
+    "static/css/main.241c2287.chunk.css",
+    "static/js/main.14d174d0.chunk.js"
+  ]
+}
