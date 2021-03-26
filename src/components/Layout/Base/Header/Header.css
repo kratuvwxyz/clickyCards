@@ -1,8 +1,17 @@
-header {
-    background-color: #2d2d2d;
-    margin: 0px ;
-  }
+:root {
+  --yellow-gold: #ffd700;
+  --light-blue: #7fffd0;
+}
+.h1 {
+  color: var(--yellow-gold);
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color:  var(--light-blue);
+}
 
-  header h1 {
-    color: gold;
-  }
+.text-info {
+  color: var(--light-blue);
+}

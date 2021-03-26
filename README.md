@@ -1,23 +1,47 @@
-# Clicky Cards
+## Clicky Cards by Desaign Studio
 
-React App.
+Memory game playing with cards.
 
-### How to play?
+<img src="./SS1.png" alt="Screen Shot" width="500">
 
 - There are 5 levels in the game.
 - Each new level add 2 more cards.
 - You have to click every card but try not to hit any duplicates!
 
+### Getting Started
 
-### Built with
+- Run 
+    - ```npm install```
+    - ```npm start```
 
-- JavaScript
-- React.js
-- Node.js
-- CSS
-- SVG
+- Deployment
+    - App running on [Github Pages]()
+
+### Version
+
+- **2103251908**
+✔ Last Update @done (March 25th 2021, 19:09)
+
+### Framework
+
+- HTML5, CSS3, JavaScript
+
+### Built With
+
+- React JS, Bootstrap, Google Fonts, SVG
+
+### Software
+
+- Visual Studio Code Editor
 - Github for versioning
 
+### CONTRIBUTE
+
+- A [contributing guideline](https://github.com/kratuvwxyz/CONTRIBUTE) available.
+
+### LICENSE
+
+- [MIT](https://github.com/kratuvwxyz/LICENSE) © 2021 Kratu Desai, DESAIGN LLC.
 
 ## CONTACT
 

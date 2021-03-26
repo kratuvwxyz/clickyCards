@@ -1,14 +1,16 @@
-nav {
+:root {
+  --yellow-gold: #ffd700;
+  --light-blue: #7fffd0;
+}
+
+.topNav {
     font-weight: bolder;
-    color: whitesmoke;
+    color: var(--light-blue);
     margin: 80px auto 40px auto;
   }
 
-nav span{
-    color: yellow;
-    font-weight: bolder;
+.topNav span{
+    color: var(--yellow-gold);
     font-size: 1.25em;
-    background-color: #2d2d2d;
     padding: 10px;
-    border-radius: 5px;
 }

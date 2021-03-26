@@ -1,0 +1,74 @@
+/* TEAM */
+                            
+    Developer: Kratu Desai
+
+                                
+    Site: https://desaigner.info
+
+                                
+    GitHub: @kratuvwxyz
+
+                                
+    Location: Austin, Texas, USA
+
+							
+/* THANKS */
+
+							
+    • Desaign Studio
+    # https://humanstxt.org
+    # https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json
+
+                            
+/* SITE */
+
+Version:
+
+    - 2103251908
+    ✔ Last Update @done (March 25th 2021, 19:16)
+
+Framework:
+
+    - HTML5, CSS3, JavaScript
+
+Built With:
+
+    - React JS, Bootstrap, Google Fonts, SVG
+
+Software:
+
+    - Visual Studio Code Editor
+    - Github for versioning
+
+Contributors:
+
+    - COC : https://github.com/kratuvwxyz/CONTRIBUTE
+
+License:
+
+    - MIT License : https://github.com/kratuvwxyz/LICENSE
+
+
+/* POWERED BY */
+
+        ╥╥  DESIGNED AND DEVELOPED BY...
+        ║║ 
+        ║║ ╓╓──╖╖ ╓╓──── ────╖╖ ╓╖ ╓╓──╖╖ ╓╓──╖╖ TM
+        ║║ ║║  ║║ ║║         ║║ ╙╜ ║║  ║║ ║║  ║║
+    ╓╓──╫╫ ╫╫──╜╜ ╙╙──╖╖ ╓╓──╫╫ ╖╖ ║║  ║║ ║║  ║║
+    ║║  ║║ ║║         ║║ ║║  ║║ ║║ ║║  ║║ ║║  ║║
+    ║║  ║║ ║║         ║║ ║║  ║║ ║║ ║║  ║║ ║║  ║║
+    ║║  ║║ ╙╙──── ────╜╜ ╙╙──╜╜ ║║ ╙╙──╫╫ ╜╜  ║║
+    ║║  ║║  HTTPS://DESAIGN.APP ║║     ║║     ╙╙ LLC
+    ╙╙──╜╜  SINCE TWENTYELEVEN  ╙╙─ ───╜╜
+            Copyright © 2021
+            ALL RIGHTS RESERVED
+            --
+            Call: 1-860-DESAIGN
+            Mail: MEET@DESAIGN.STUDIO
+            Post: PO BOX 200001, AUSTIN TX 78720
+            --
+            Book an appointment with us at
+            https://calendly.com/desaignstudio
+            --
+            Follow us: #desaignstudio
